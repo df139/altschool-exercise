@@ -1,0 +1,33 @@
+- name: web server deployment
+  hosts: all
+  remote_user: root
+  become: yes
+  tasks:
+      - name: install apache2
+        apt:
+         name=apache2
+         state=present
+
+      - name: php repo
+        apt_repository:
+         repo: ppa:ondrej/php
+         state: present
+
+      - name: install php7.4
+        apt:
+         name: php
+         state: latest
+
+      - name: php file path
+        copy:
+         src: /home/vagrant/ansible/index.php
+         dest: /var/www/html
+
+      - name: set timezone to Africa/Lagos
+        timezone:
+          name: Africa/Lagos
+
+      - name: Remove file (delete file)
+        ansible.builtin.file:
+          path: /var/www/html/index.html
+          state: absent
