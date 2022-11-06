@@ -1,0 +1,14 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+   - name: install dependency
+     apt:
+       name: php-mysql
+
+   - name: Migrate Database
+     shell: |
+       cd /var/www/rocky
+       php artisan migrate
