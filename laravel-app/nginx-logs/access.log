@@ -1,0 +1,6 @@
+144.126.194.183 - - [12/Feb/2023:19:45:27 +0000] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\xC4\xAB\xD4^7\xB9.\x09T\x88\x11\xE3\xDBW\xED\x1C\xF2\xCC\xACKf\xCA\x03P\x1C4\xE0\x80\xA0y\xD7C\x00\x00\x1A\xC0/\xC0+\xC0\x11\xC0\x07\xC0\x13\xC0\x09\xC0\x14\xC0" 400 157 "-" "-"
+144.126.194.183 - - [12/Feb/2023:19:45:27 +0000] "GET /client/get_targets HTTP/1.1" 200 465 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+79.137.207.22 - - [12/Feb/2023:19:47:03 +0000] "CONNECT google.com:443 HTTP/1.1" 400 157 "-" "-"
+105.112.16.241 - - [12/Feb/2023:19:47:36 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+105.112.16.241 - - [12/Feb/2023:19:47:38 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://188.166.173.45/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+212.33.244.98 - - [12/Feb/2023:19:51:47 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
