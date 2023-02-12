@@ -4,3 +4,5 @@
 105.112.16.241 - - [12/Feb/2023:19:47:36 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 105.112.16.241 - - [12/Feb/2023:19:47:38 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://188.166.173.45/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 212.33.244.98 - - [12/Feb/2023:19:51:47 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+3.139.62.168 - - [12/Feb/2023:20:17:57 +0000] "GET /.git/config HTTP/1.1" 404 6622 "-" "Mozilla/5.0 (Linux; Android 12; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36"
+193.32.162.159 - - [12/Feb/2023:20:20:35 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46"
